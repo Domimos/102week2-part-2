@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+nav{
+    height: 500px;
+    width: 5%;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+
+}
+#test{
+    padding-top: 0px;
+    padding-left: 30%;
+}
